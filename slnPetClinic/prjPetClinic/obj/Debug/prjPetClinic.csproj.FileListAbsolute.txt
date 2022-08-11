@@ -1,0 +1,9 @@
+C:\Intro C#\slnPetClinic\prjPetClinic\bin\Debug\prjPetClinic.exe.config
+C:\Intro C#\slnPetClinic\prjPetClinic\bin\Debug\prjPetClinic.exe
+C:\Intro C#\slnPetClinic\prjPetClinic\bin\Debug\prjPetClinic.pdb
+C:\Intro C#\slnPetClinic\prjPetClinic\obj\Debug\prjPetClinic.frmPetClinic.resources
+C:\Intro C#\slnPetClinic\prjPetClinic\obj\Debug\prjPetClinic.Properties.Resources.resources
+C:\Intro C#\slnPetClinic\prjPetClinic\obj\Debug\prjPetClinic.csproj.GenerateResource.cache
+C:\Intro C#\slnPetClinic\prjPetClinic\obj\Debug\prjPetClinic.csproj.CoreCompileInputs.cache
+C:\Intro C#\slnPetClinic\prjPetClinic\obj\Debug\prjPetClinic.exe
+C:\Intro C#\slnPetClinic\prjPetClinic\obj\Debug\prjPetClinic.pdb
